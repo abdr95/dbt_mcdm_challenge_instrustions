@@ -30,8 +30,10 @@ The `seeds/` directory contains the source code for the project, organized into 
 To reproduce the solution or further explore the project, follow these steps:
 
 1. Clone the [repository](https://github.com/abdr95/dbt_mcdm_challenge).
-2. Connect to DBT Cloud and create a [project](https://cloud.getdbt.com/develop/180784/projects/265142).
-3. Import the SQL scripts in dbt/models/ to your DBT project.
+2. Connect to DBT Cloud and create a [project](https://cloud.getdbt.com/develop/180784/projects/265142):
+   ![image](https://github.com/abdr95/dbt_mcdm_challenge_instrustions/assets/90299841/76cd2d95-abf8-476c-b50d-3c1f6e55761e)
+
+4. Import the SQL scripts in dbt/models/ to your DBT project.
 
 <pre>
      {{config(
