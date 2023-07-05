@@ -34,7 +34,6 @@ To reproduce the solution or further explore the project, follow these steps:
 3. Import the SQL scripts in dbt/models/ to your DBT project.
 
 <pre>
-#!/bin/bash
      {{config(
     materialized='view')}}
 
