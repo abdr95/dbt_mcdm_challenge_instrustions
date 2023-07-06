@@ -203,6 +203,8 @@ To reproduce the solution or further explore the project, follow these steps:
 7. Connect to Looker Studio and create a new project.
 8. Customize the Looker visuals and dashboards as needed to match the required final data.
 9. Compare the generated visuals with the provided dashboard and iteratively adjust the data sources until achieving the desired final data: [Link for Looker Studio](https://lookerstudio.google.com/s/gVvM17TZ-iI)
+    ![image](https://github.com/abdr95/dbt_mcdm_challenge_instrustions/assets/90299841/7d3cbb49-c3fb-4d52-95c5-87b46641409e)
+
 
 ## Dependencies
 The following tools and services were used in this project:
